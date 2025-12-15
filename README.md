@@ -1,3 +1,3 @@
 # Demo
-hello
+hello\n
 my name is Khushi 
